@@ -1,0 +1,13 @@
++------------------------+
+|     Charango           |
++------------------------+
+| - material: String     |
+| - nroCuerdas: int      |
+| - cuerdas[10]: boolean |
++------------------------+
+| + Charango(...)        |
+| + getMaterial()        |
+| + getNroCuerdas()      |
+| + getCuerdas()         |
+| + toString()           |
++------------------------+
